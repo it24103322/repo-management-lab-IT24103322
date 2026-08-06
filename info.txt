@@ -1,0 +1,8 @@
+This repository demonstrates Git repository management.
+
+It includes:
+
+- Git basics
+- Branches
+- Merge
+- Merge conflict resolution
